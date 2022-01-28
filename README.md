@@ -1,0 +1,2 @@
+# Predicting-Customer-Churn-Using-Python
+Customer churn affects companies, since it is costly to onboard new customers than retaining existing ones. It is therefore, very important to predict potential customers that will churn in months ahead. In this project, using python, I predicted customers that will churn and identified high risk churn customers  with probabilities greater than 0.9. Recommendations to prevent churn was highlighted.
